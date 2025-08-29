@@ -2,7 +2,7 @@
 
 ## Student Information
 - **Name:** Roy Samuels
-- **Course:** BDA594-01:Big Data Science and Analytics Platforms 
+- **Course URL:** [BDA594-01:Big Data Science and Analytics Platforms ](https://sdsu.instructure.com/courses/188639/)
 
 ---
 
@@ -13,21 +13,3 @@ make predictions, and enable improved decision-making through the results of inf
 media, sensors, business transactions, or scientific experiments.
 
 ---
-
-## Selected Dataset
-- **Name:** World Bank Open Data  
-- **URL:** [https://data.worldbank.org/] 
-- **Description:** This dataset presents statistics of the world's development in terms of population, education, climate change, poverty, and health indicators.  
-- **Applications:** Data scientists and policymakers can use it to examine world economic trends, determine progress on sustainable development objectives, and 
-create data-driven solutions to societal and environmental issues.
-
----
-
-## Selected Book
-- **Title:** The Elements of Statistical Learning  
-- **URL:** [https://hastie.su.domains/ElemStatLearn/] 
-- **Authors:** Trevor Hastie, Robert Tibshirani, Jerome Friedman (Stanford University)  
-- **Why I’m Interested:**  Complex statistical and machine learning algorithms including regression, classification, and decision trees are described in this book. 
-I selected it because I would like to reinforce my knowledge of the mathematical basis that underlies predictive analytics and artificial intelligence.  
----
-
