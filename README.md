@@ -2,7 +2,7 @@
 
 ## Student Information
 - **Name:** Roy Samuels
-- **Course URL:** [SDSU BDA594 Global Campus](https://ces.sdsu.edu/)  
+- **Course:** BDA594-01:Big Data Science and Analytics Platforms 
 
 ---
 
